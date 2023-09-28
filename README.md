@@ -1,2 +1,2 @@
-# humor
-An exploration of humor in software engineering
+# Software Humor
+(Finally!) an exploration of humor in software engineering
